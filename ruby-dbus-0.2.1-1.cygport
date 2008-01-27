@@ -1,0 +1,5 @@
+inherit ruby
+
+DESCRIPTION="Ruby D-Bus bindings"
+HOMEPAGE="https://trac.luon.net/ruby-dbus/"
+SRC_URI="https://trac.luon.net/data/${PN}/releases/${P}.tar.gz"
