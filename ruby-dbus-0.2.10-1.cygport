@@ -3,3 +3,6 @@ inherit ruby
 DESCRIPTION="Ruby D-Bus implementation"
 HOMEPAGE="https://trac.luon.net/ruby-dbus/"
 SRC_URI="http://cloud.github.com/downloads/mvidner/${PN}/${P}.tgz"
+
+RDOC_SOURCE="lib"
+RDOC_MODULE="DBus"
