@@ -1,5 +1,0 @@
-category: Ruby
-requires: dbus ruby
-sdesc: "Ruby D-Bus implementation"
-ldesc: "Ruby D-Bus provides an implementation of the D-Bus protocol such 
-that the D-Bus system can be used in the Ruby programming language."
