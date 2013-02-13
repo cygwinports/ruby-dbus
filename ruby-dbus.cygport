@@ -1,0 +1,11 @@
+ORIG_PN=${PN}
+inherit rubygem
+
+NAME="ruby-dbus"
+VERSION=0.9.0
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby D-Bus implementation"
+DESCRIPTION="Pure Ruby module for interaction with D-Bus IPC system"
+
+REQUIRES="dbus"

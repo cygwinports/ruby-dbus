@@ -1,5 +1,0 @@
-ORIG_PN=${PN}
-inherit rubygem
-
-
-REQUIRES="dbus"
