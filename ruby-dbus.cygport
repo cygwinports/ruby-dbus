@@ -2,7 +2,7 @@ ORIG_PN="ruby-dbus"
 inherit rubygem
 
 NAME="ruby-dbus"
-VERSION=0.13.0
+VERSION=0.14.1
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Ruby D-Bus implementation"
